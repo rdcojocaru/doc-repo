@@ -1,5 +1,11 @@
 # Welcome to MkLorum
 
+Test - Visit this [link](about/).
+
+Test - And this [link](/about).
+
+Test - And this [link](/about/) too.
+
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Commands
